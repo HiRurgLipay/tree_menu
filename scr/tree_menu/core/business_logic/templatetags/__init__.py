@@ -1,4 +1,4 @@
-from .menu_tags import draw_menu
+from .menu_tags import build_menu, render_menu
 
 
-__all__ = ["draw_menu"]
+__all__ = ["build_menu", "render_menu"]
